@@ -5,9 +5,13 @@ public class A {
 		System.out.println("sudha");
 	}
 	
+	public static void sudhaTeam() {
+		System.out.println("sudhaTeam");
+	} 
+	
 	public static void main(String[] args) {
 		sudha();
-		
+		sudhaTeam();
 		System.out.println("Rahul Mourya : "+56);
 	
     }
