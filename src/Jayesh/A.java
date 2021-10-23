@@ -13,10 +13,15 @@ public class A {
 		System.out.println("Team");
 	} 
 	
+	public static void sports() {
+		System.out.println("Dhoni");
+	} 
+	
 	public static void main(String[] args) {
 		sudha();
 		sudhaTeam();
 		Team();
+		sports();
 		System.out.println("Rahul Mourya : "+56);
 	
     }
